@@ -20,5 +20,3 @@ The text cycles through different career titles, typing them letter by letter to
 - Timing functions with `setTimeout`  
 
 ---
-
-## 📂 Project Structure
